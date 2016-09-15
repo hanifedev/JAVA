@@ -20,7 +20,7 @@ public class JavaApplication8 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String dosya,path,cvp;
+        String dosya,path;
         System.out.println("Olusturmak istediginiz dosyanın yolunu ve adını giriniz");
         Scanner tara=new Scanner(System.in);
         dosya=tara.next();
