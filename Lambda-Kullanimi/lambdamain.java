@@ -9,7 +9,7 @@ package javaapplication8;
  *
  * @author hanife
  */
-public class FonksiyonHesaplama {
+public class lambdamain {
 
     /**
      * @param args the command line arguments
