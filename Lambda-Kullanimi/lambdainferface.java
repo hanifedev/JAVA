@@ -9,6 +9,6 @@ package javaapplication8;
  *
  * @author hanife
  */
-public interface Fonksiyon {
+public interface lambdainterface {
     double sayi(double x,double y);
 }
