@@ -8,7 +8,7 @@ package javaapplication15;
  *
  * @author hanife
  */
-public class JavaApplication15 {
+public class obebokekmain {
 
     /**
      * @param args the command line arguments
