@@ -2,7 +2,7 @@ package Deneme;
 
 import java.util.Scanner;
 
-public class BottomUpCutDown {
+public class bottomUpCutDown {
 
 	public static void main(String[] args) {
 		int n;
