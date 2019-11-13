@@ -12,8 +12,8 @@ public static void main(String[] args) {
 		}
 		System.out.println("Son eleman : " + stack.peek());
 		Queue<String> kuyruk=new LinkedList<String>();
-		kuyruk.offer("Hanife");
-		kuyruk.offer("Kurnaz");
+		kuyruk.offer("isim");
+		kuyruk.offer("soyisim");
 		System.out.println(kuyruk);
 		System.out.println("İlk eleman : " + kuyruk.poll());
 		LinkedList<Integer> liste=new LinkedList<Integer>();
